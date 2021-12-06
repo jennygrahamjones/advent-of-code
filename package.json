@@ -1,0 +1,14 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jennygrahamjones/advent-of-code.git",
+  "author": "Jenny Graham-Jones <jenny.grahamjones@loopio.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
